@@ -1,4 +1,5 @@
 # Aksana Patrubeika
+![](https://i.ibb.co/jztT7pL/Me.jpg)
 ## Contacts
 - ![](https://i.ibb.co/R9vrZ0S/Ca69b00243fc7acae01532de7b633dce.png) +375 29 000 00 00
 - ![](https://i.ibb.co/FhwmLDJ/579-5790258-location-logo-png-hd-images-location-logo-png.png) Minsk, Belarus
@@ -12,10 +13,11 @@
 - Autodesk AutoCAD
 - Robot Structural 
 - Grasghooper
-- Excel
-- Word
+- C# (elementary)
+- JS (elementary)
+- CSS/HTML (elementary)
 
-##Skills
+## Skills
 - Team work
 - Problems solving
 - Fast learnability
@@ -23,4 +25,20 @@
 
 ## Languages
 - Eng - Intermidiate
-- Rus/Bl - Native
+- Rus/Bel - Native
+
+## Sammary
+I have more than 3 years of expirience as a BIM Structural Engineer in Tekla Structures in concrete, steel, BIM modeling, workshop drawings.  Also I have 1 year of expirience as team leader in modeling and providing cast in site and precast concrete constructions.
+Software Used:
+- Tekla Structures
+- Autodesk AutoCAD
+- Robot Structural
+- Grasghooper
+
+Skills:
+- Work in team about building projects in Sweden, Denmark, Latvia. Business trip to a construction site for supervision
+- Knowledge of Building Information Modeling, including model sharing and modeling different kinds of Formwork and maintenance, consulting, and coordination of the construction process.
+- Developing and editing templates, components, reports
+- Work in the team, able to deal with problem calmly and efficiently
+
+## Code Example
