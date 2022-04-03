@@ -30,10 +30,6 @@
 ## Sammary
 I have more than 3 years of expirience as a BIM Structural Engineer in Tekla Structures in concrete, steel, BIM modeling, workshop drawings.  Also I have 1 year of expirience as team leader in modeling and providing cast in site and precast concrete constructions.
 Software Used:
-- Tekla Structures
-- Autodesk AutoCAD
-- Robot Structural
-- Grasghooper
 
 Skills:
 - Work in team about building projects in Sweden, Denmark, Latvia. Business trip to a construction site for supervision
@@ -48,9 +44,9 @@ _In this little assignment you are given a string of space separated numbers, an
 **Examples**
 
 
-highAndLow(<font color=ForestGreen size=3>"1 2 3 4 5"</font>);_<font color=gray size=3>   // return "5 1"</font>_
-highAndLow(<font color=ForestGreen size=3>"1 2 -3 4 5"</font>);_<font color=gray size=3>   // return "5 -3"</font>_
-highAndLow(<font color=ForestGreen size=3>"1 9 3 4 -5"</font>);_<font color=gray size=3>   // return "9 -5"</font>_
+highAndLow(<font color=ForestGreen size=3>"1 2 3 4 5"</font>);_<font color=gray size=3>   // return "5 1"</font>_</br>
+highAndLow(<font color=ForestGreen size=3>"1 2 -3 4 5"</font>);_<font color=gray size=3>   // return "5 -3"</font>_</br>
+highAndLow(<font color=ForestGreen size=3>"1 9 3 4 -5"</font>);_<font color=gray size=3>   // return "9 -5"</font>_</br>
 
 
 
