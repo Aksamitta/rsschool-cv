@@ -42,3 +42,24 @@ Skills:
 - Work in the team, able to deal with problem calmly and efficiently
 
 ## Code Example
+_Description:_
+_In this little assignment you are given a string of space separated numbers, and have to return the highest and lowest number._
+
+**Examples**
+
+
+highAndLow(<font color=ForestGreen size=3>"1 2 3 4 5"</font>);_<font color=gray size=3>   // return "5 1"</font>_
+highAndLow(<font color=ForestGreen size=3>"1 2 -3 4 5"</font>);_<font color=gray size=3>   // return "5 -3"</font>_
+highAndLow(<font color=ForestGreen size=3>"1 9 3 4 -5"</font>);_<font color=gray size=3>   // return "9 -5"</font>_
+
+
+
+  
+
+       function highAndLow(numbers){
+    		console.log(numbers);
+    		const numberArr = numbers.split(' ');
+    		let max = Math.max(...numberArr);
+    		let min = Math.min(...numberArr);
+    		return max + ' ' + min;
+		}
